@@ -1,0 +1,14 @@
+C:\Users\profe\Desktop\Class-InheritencePractice\Class-Inheritence-Practice\Class-Inheritence-Practice\bin\Debug\netcoreapp3.1\Class-Inheritence-Practice.exe
+C:\Users\profe\Desktop\Class-InheritencePractice\Class-Inheritence-Practice\Class-Inheritence-Practice\bin\Debug\netcoreapp3.1\Class-Inheritence-Practice.deps.json
+C:\Users\profe\Desktop\Class-InheritencePractice\Class-Inheritence-Practice\Class-Inheritence-Practice\bin\Debug\netcoreapp3.1\Class-Inheritence-Practice.runtimeconfig.json
+C:\Users\profe\Desktop\Class-InheritencePractice\Class-Inheritence-Practice\Class-Inheritence-Practice\bin\Debug\netcoreapp3.1\Class-Inheritence-Practice.runtimeconfig.dev.json
+C:\Users\profe\Desktop\Class-InheritencePractice\Class-Inheritence-Practice\Class-Inheritence-Practice\bin\Debug\netcoreapp3.1\Class-Inheritence-Practice.dll
+C:\Users\profe\Desktop\Class-InheritencePractice\Class-Inheritence-Practice\Class-Inheritence-Practice\bin\Debug\netcoreapp3.1\Class-Inheritence-Practice.pdb
+C:\Users\profe\Desktop\Class-InheritencePractice\Class-Inheritence-Practice\Class-Inheritence-Practice\obj\Debug\netcoreapp3.1\Class-Inheritence-Practice.csproj.AssemblyReference.cache
+C:\Users\profe\Desktop\Class-InheritencePractice\Class-Inheritence-Practice\Class-Inheritence-Practice\obj\Debug\netcoreapp3.1\Class-Inheritence-Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profe\Desktop\Class-InheritencePractice\Class-Inheritence-Practice\Class-Inheritence-Practice\obj\Debug\netcoreapp3.1\Class-Inheritence-Practice.AssemblyInfoInputs.cache
+C:\Users\profe\Desktop\Class-InheritencePractice\Class-Inheritence-Practice\Class-Inheritence-Practice\obj\Debug\netcoreapp3.1\Class-Inheritence-Practice.AssemblyInfo.cs
+C:\Users\profe\Desktop\Class-InheritencePractice\Class-Inheritence-Practice\Class-Inheritence-Practice\obj\Debug\netcoreapp3.1\Class-Inheritence-Practice.csproj.CoreCompileInputs.cache
+C:\Users\profe\Desktop\Class-InheritencePractice\Class-Inheritence-Practice\Class-Inheritence-Practice\obj\Debug\netcoreapp3.1\Class-Inheritence-Practice.dll
+C:\Users\profe\Desktop\Class-InheritencePractice\Class-Inheritence-Practice\Class-Inheritence-Practice\obj\Debug\netcoreapp3.1\Class-Inheritence-Practice.pdb
+C:\Users\profe\Desktop\Class-InheritencePractice\Class-Inheritence-Practice\Class-Inheritence-Practice\obj\Debug\netcoreapp3.1\Class-Inheritence-Practice.genruntimeconfig.cache
